@@ -1,4 +1,4 @@
-### Learn React-Redux
+# Learn React-Redux
 
 npm i react-redux redux
 
@@ -12,4 +12,4 @@ npm i react-redux redux
 
 4. Subscribe, proses pemanggilan STORE yang kita perlukan.
 
-# Redux thunk : agar react-redux support async funtions
+### Redux thunk : agar react-redux support async funtions
