@@ -6,6 +6,7 @@ const Home = () => {
   return (
     <div>
       <h1>Hello from Home</h1>
+      <h1>Updated from branch 001</h1>
       <p>Balance from profile : {balance} </p>
     </div>
   );

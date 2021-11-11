@@ -8,7 +8,7 @@ npm i react-redux redux
 
 2. Membuat Reducer, merupakan satu-satunya fungsi yang dapat mengupdate value store. Tidak ada fungsi lain yang dapat mengupdate store. Reducer juga dapat disebut Agent , didalam agen terdapat task list yang dapat dilakukan.
 
-3. Dispatch , adalah fungsi untuk memanggil reducer . Karena reducer tidak akan bekerja tanpa dipanggil.
+3. Dispatch/Action , adalah fungsi untuk memanggil reducer . Karena reducer tidak akan bekerja tanpa dipanggil.
 
 4. Subscribe, proses pemanggilan STORE yang kita perlukan.
 
