@@ -8,6 +8,7 @@ const Home = () => {
       <h1>Hello from Home</h1>
       <h1>Updated from branch 001</h1>
       <p>Balance from profile : {balance} </p>
+      <h1>Updated from branch 002</h1>
     </div>
   );
 };
