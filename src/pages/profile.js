@@ -17,9 +17,9 @@ const Profile = () => {
     <div>
       <h1>Hello from profile</h1>
       <Wrapper>
-        <button onClick={() => depositMoney(1000)}>+</button>
-        <p>Count : {account}</p>
-        <button onClick={() => withdrawMoney(500)}>-</button>
+        <button onClick={() => depositMoney(1000)}>Deposit 1000</button>
+        <p>Your Money : {account}</p>
+        <button onClick={() => withdrawMoney(500)}>Withdraw 500</button>
       </Wrapper>
     </div>
   );
